@@ -3,3 +3,5 @@ this is the second practice file
 pactice makes perfect
 
 updated file for practice
+
+updated in the actual ,gitignore file not in the .ignore.
